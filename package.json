@@ -6,7 +6,7 @@
     "@mdi/font": "^4.4.95",
     "classnames": "^2.2.6",
     "materialize-css": "^1.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-helmet": "^5.2.1",
